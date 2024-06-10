@@ -133,11 +133,10 @@ const styles = StyleSheet.create({
     minWidth: 100,
     paddingHorizontal: 20,
     height: 80,
-    padding: 5,
+    padding: 8,
   },
   topicRow: { flexDirection: "row", marginTop: 10 },
   topicItem: { width: 80, height: 35 },
 });
 
 export default Profile;
-
